@@ -1,3 +1,4 @@
 # MLOps-Practical-1
-This is my first GitHub repository for the Reproducibility & Model Deployment course.  
-Author: Weifeng Tang
+Hi, I'm Williams.
+
+I'm learning how to use Github Issues
