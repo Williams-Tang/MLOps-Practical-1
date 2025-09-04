@@ -1,7 +1,7 @@
 ## About Me
 Hi, I’m Williams.
 
-I’m learning how to use GitHub Issues. I feel so confused OMG
+I’m learning how to use GitHub Issues. I feel so confused OMGi
 
 ## Fun Fact
 Hello world!
